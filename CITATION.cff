@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "FATE: Leakage- and Confound-Aware Evaluation Framework for Wearable Mental-Fatigue Detection (code)"
+type: software
+repository-code: "https://github.com/fjeribi/FATE-wearable-fatigue"
+contact:
+  - family-names: Jeribi
+    given-names: Fathe
+    email: fjeribi@jazanu.edu.sa
+    affiliation: "Jazan University"
+authors:
+  - family-names: Jeribi
+    given-names: Fathe
+    email: fjeribi@jazanu.edu.sa
+    affiliation: "Jazan University"
+  - family-names: Alam
+    given-names: Shadab
+    affiliation: "Jazan University"
+  - family-names: Khubrani
+    given-names: Mousa Mohammed
+    affiliation: "Jazan University"
+preferred-citation:
+  type: article
+  title: "FATE: A Novel Leakage- and Confound-Aware Evaluation Framework for Trustworthy Wearable Mental-Fatigue Detection"
+  journal: "Frontiers in Public Health"
+  authors:
+    - family-names: Jeribi
+      given-names: Fathe
+    - family-names: Alam
+      given-names: Shadab
+    - family-names: Khubrani
+      given-names: Mousa Mohammed

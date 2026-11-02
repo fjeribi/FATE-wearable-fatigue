@@ -1,0 +1,4 @@
+model,block_proxy_auc
+Random Forest,0.7521692345316704
+XGBoost,0.7826216678894595
+Logistic Regression,0.7789337246270482

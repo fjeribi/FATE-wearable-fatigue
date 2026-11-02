@@ -1,0 +1,16 @@
+# Versions used to test this package; nearby versions should also work.
+# Revision run: numpy 2.5, pandas 3.0, scikit-learn 1.9, scipy 1.18, jax 0.12, optax 0.2.8.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+xgboost==2.1.4   # revision results; 3.x changes tree results slightly
+statsmodels>=0.14
+mlconfound==0.21.3   # partial and full confounder tests (revision)
+matplotlib>=3.7
+openpyxl>=3.1
+# deep networks of the earlier MEFAR analysis (scripts/04, 06, 07)
+tensorflow>=2.15
+# graph autoencoder re-implementation and FatigueSet MF-AFEN (fate_analysis/published.py, mfafen_jax.py)
+jax>=0.4        # revision results: jax 0.12; graph-autoencoder AUCs can differ slightly between versions
+optax>=0.1

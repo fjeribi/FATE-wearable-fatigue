@@ -1,0 +1,589 @@
+dataset,model,scheme,scale,family,p_adj,ts_p_adj,tier,tier_v1
+FatigueSet,Logistic Regression,within,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,within,rank,holm_all,1.0,1.0,1,1
+FatigueSet,KNN,within,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Random Forest,within,rank,holm_all,0.1889055472263868,0.6296851574212894,1,1
+FatigueSet,XGBoost,within,rank,holm_all,0.1199400299850075,0.384807596201899,1,1
+FatigueSet,MLP,within,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala RF,within,rank,holm_all,0.1889055472263868,0.7156421789105447,1,1
+FatigueSet,Jampala LR,within,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala KNN,within,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Nooh GCA,within,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Logistic Regression,within,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,within,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,KNN,within,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Random Forest,within,rank,holm_dedup,0.1889055472263868,0.6296851574212894,1,1
+FatigueSet,XGBoost,within,rank,holm_dedup,0.1199400299850075,0.384807596201899,1,1
+FatigueSet,MLP,within,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala RF,within,rank,holm_dedup,0.1889055472263868,0.7156421789105447,1,1
+FatigueSet,Jampala LR,within,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala KNN,within,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Nooh GCA,within,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Logistic Regression,within,rank,holm_family,0.7436281859070465,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,within,rank,holm_family,0.952023988005997,1.0,1,1
+FatigueSet,KNN,within,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Random Forest,within,rank,holm_family,0.11494252873563218,0.3498250874562719,1,1
+FatigueSet,XGBoost,within,rank,holm_family,0.07196401799100449,0.23088455772113942,1,1
+FatigueSet,MLP,within,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala RF,within,rank,holm_family,0.08395802098950525,0.35782108945527236,1,1
+FatigueSet,Jampala LR,within,rank,holm_family,0.4587706146926537,1.0,1,1
+FatigueSet,Jampala KNN,within,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Nooh GCA,within,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Logistic Regression,within,rank,bh_all,0.37181409295352325,0.8975512243878061,1,1
+FatigueSet,Gaussian Naive Bayes,within,rank,bh_all,0.5289022155588872,0.8975512243878061,1,1
+FatigueSet,KNN,within,rank,bh_all,0.6756621689155422,0.8975512243878061,1,1
+FatigueSet,Random Forest,within,rank,bh_all,0.07662835249042145,0.29818424121272696,1,1
+FatigueSet,XGBoost,within,rank,bh_all,0.07662835249042145,0.29818424121272696,1,1
+FatigueSet,MLP,within,rank,bh_all,0.6756621689155422,0.8975512243878061,1,1
+FatigueSet,Jampala RF,within,rank,bh_all,0.07662835249042145,0.29818424121272696,1,1
+FatigueSet,Jampala LR,within,rank,bh_all,0.37181409295352325,0.8975512243878061,1,1
+FatigueSet,Jampala KNN,within,rank,bh_all,0.6756621689155422,0.8975512243878061,1,1
+FatigueSet,Nooh GCA,within,rank,bh_all,0.6756621689155422,0.8975512243878061,1,1
+FatigueSet,Logistic Regression,within,rank,none,0.18590704647676162,0.6751624187906047,1,1
+FatigueSet,Gaussian Naive Bayes,within,rank,none,0.3173413293353323,0.8830584707646177,1,1
+FatigueSet,KNN,within,rank,none,0.6756621689155422,0.8975512243878061,1,1
+FatigueSet,Random Forest,within,rank,none,0.022988505747126436,0.06996501749125437,2,2
+FatigueSet,XGBoost,within,rank,none,0.01199400299850075,0.0384807596201899,3,2
+FatigueSet,MLP,within,rank,none,0.5677161419290355,0.887056471764118,1,1
+FatigueSet,Jampala RF,within,rank,none,0.020989505247376312,0.08945527236381809,2,2
+FatigueSet,Jampala LR,within,rank,none,0.15292353823088456,0.6856571714142928,1,1
+FatigueSet,Jampala KNN,within,rank,none,0.5362318840579711,0.672663668165917,1,1
+FatigueSet,Nooh GCA,within,rank,none,0.6316841579210395,0.8745627186406797,1,1
+FatigueSet,Logistic Regression,within,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,within,raw,holm_all,1.0,1.0,1,1
+FatigueSet,KNN,within,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Random Forest,within,raw,holm_all,0.06996501749125437,0.40929535232383807,1,1
+FatigueSet,XGBoost,within,raw,holm_all,0.07596201899050475,0.5517241379310345,1,1
+FatigueSet,MLP,within,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala RF,within,raw,holm_all,0.06996501749125437,0.31984007996001995,1,1
+FatigueSet,Jampala LR,within,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala KNN,within,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Nooh GCA,within,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Logistic Regression,within,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,within,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,KNN,within,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Random Forest,within,raw,holm_dedup,0.06996501749125437,0.40929535232383807,1,1
+FatigueSet,XGBoost,within,raw,holm_dedup,0.07596201899050475,0.5517241379310345,1,1
+FatigueSet,MLP,within,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala RF,within,raw,holm_dedup,0.06996501749125437,0.31984007996001995,1,1
+FatigueSet,Jampala LR,within,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala KNN,within,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Nooh GCA,within,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Logistic Regression,within,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,within,raw,holm_family,1.0,1.0,1,1
+FatigueSet,KNN,within,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Random Forest,within,raw,holm_family,0.04497751124437781,0.272863568215892,2,2
+FatigueSet,XGBoost,within,raw,holm_family,0.04747626186906547,0.3448275862068966,2,2
+FatigueSet,MLP,within,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala RF,within,raw,holm_family,0.02798600699650175,0.127936031984008,2,2
+FatigueSet,Jampala LR,within,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala KNN,within,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Nooh GCA,within,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Logistic Regression,within,raw,bh_all,0.5407296351824088,0.9565217391304348,1,1
+FatigueSet,Gaussian Naive Bayes,within,raw,bh_all,0.5407296351824088,0.9565217391304348,1,1
+FatigueSet,KNN,within,raw,bh_all,0.5407296351824088,0.9565217391304348,1,1
+FatigueSet,Random Forest,within,raw,bh_all,0.03165084124604365,0.2273863068465767,2,2
+FatigueSet,XGBoost,within,raw,bh_all,0.03165084124604365,0.2298850574712644,2,2
+FatigueSet,MLP,within,raw,bh_all,0.5407296351824088,0.9565217391304348,1,1
+FatigueSet,Jampala RF,within,raw,bh_all,0.03165084124604365,0.2273863068465767,2,2
+FatigueSet,Jampala LR,within,raw,bh_all,0.5407296351824088,0.9565217391304348,1,1
+FatigueSet,Jampala KNN,within,raw,bh_all,0.5407296351824088,0.9565217391304348,1,1
+FatigueSet,Nooh GCA,within,raw,bh_all,0.5407296351824088,0.9565217391304348,1,1
+FatigueSet,Logistic Regression,within,raw,none,0.3748125937031484,0.7891054472763618,1,1
+FatigueSet,Gaussian Naive Bayes,within,raw,none,0.4847576211894053,0.9565217391304348,1,1
+FatigueSet,KNN,within,raw,none,0.5407296351824088,0.8845577211394303,1,1
+FatigueSet,Random Forest,within,raw,none,0.0074962518740629685,0.04547726136931534,3,2
+FatigueSet,XGBoost,within,raw,none,0.009495252373813094,0.06896551724137931,2,2
+FatigueSet,MLP,within,raw,none,0.4127936031984008,0.735632183908046,1,1
+FatigueSet,Jampala RF,within,raw,none,0.0069965017491254375,0.031984007996002,3,2
+FatigueSet,Jampala LR,within,raw,none,0.36031984007996004,0.8045977011494253,1,1
+FatigueSet,Jampala KNN,within,raw,none,0.4942528735632184,0.7271364317841079,1,1
+FatigueSet,Nooh GCA,within,raw,none,0.4337831084457771,0.6391804097951025,1,1
+FatigueSet,Logistic Regression,free,rank,holm_all,0.9025487256371814,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,free,rank,holm_all,1.0,1.0,1,1
+FatigueSet,KNN,free,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Random Forest,free,rank,holm_all,0.3553223388305847,0.6296851574212894,1,1
+FatigueSet,XGBoost,free,rank,holm_all,0.3553223388305847,0.384807596201899,1,1
+FatigueSet,MLP,free,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala RF,free,rank,holm_all,0.24987506246876562,0.7156421789105447,1,1
+FatigueSet,Jampala LR,free,rank,holm_all,0.7941029485257372,1.0,1,1
+FatigueSet,Jampala KNN,free,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Nooh GCA,free,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Logistic Regression,free,rank,holm_dedup,0.9025487256371814,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,free,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,KNN,free,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Random Forest,free,rank,holm_dedup,0.3553223388305847,0.6296851574212894,1,1
+FatigueSet,XGBoost,free,rank,holm_dedup,0.3553223388305847,0.384807596201899,1,1
+FatigueSet,MLP,free,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala RF,free,rank,holm_dedup,0.24987506246876562,0.7156421789105447,1,1
+FatigueSet,Jampala LR,free,rank,holm_dedup,0.7941029485257372,1.0,1,1
+FatigueSet,Jampala KNN,free,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Nooh GCA,free,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Logistic Regression,free,rank,holm_family,0.6016991504247876,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,free,rank,holm_family,0.7061469265367316,1.0,1,1
+FatigueSet,KNN,free,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Random Forest,free,rank,holm_family,0.2368815592203898,0.3498250874562719,1,1
+FatigueSet,XGBoost,free,rank,holm_family,0.2368815592203898,0.23088455772113942,1,1
+FatigueSet,MLP,free,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala RF,free,rank,holm_family,0.09995002498750624,0.35782108945527236,1,1
+FatigueSet,Jampala LR,free,rank,holm_family,0.3403298350824588,1.0,1,1
+FatigueSet,Jampala KNN,free,rank,holm_family,0.960519740129935,1.0,1,1
+FatigueSet,Nooh GCA,free,rank,holm_family,0.960519740129935,1.0,1,1
+FatigueSet,Logistic Regression,free,rank,bh_all,0.3008495752123938,0.8975512243878061,1,1
+FatigueSet,Gaussian Naive Bayes,free,rank,bh_all,0.39230384807596197,0.8975512243878061,1,1
+FatigueSet,KNN,free,rank,bh_all,0.5977011494252874,0.8975512243878061,1,1
+FatigueSet,Random Forest,free,rank,bh_all,0.13993003498250875,0.29818424121272696,1,1
+FatigueSet,XGBoost,free,rank,bh_all,0.13993003498250875,0.29818424121272696,1,1
+FatigueSet,MLP,free,rank,bh_all,0.5874840357598978,0.8975512243878061,1,1
+FatigueSet,Jampala RF,free,rank,bh_all,0.13993003498250875,0.29818424121272696,1,1
+FatigueSet,Jampala LR,free,rank,bh_all,0.283608195902049,0.8975512243878061,1,1
+FatigueSet,Jampala KNN,free,rank,bh_all,0.5874840357598978,0.8975512243878061,1,1
+FatigueSet,Nooh GCA,free,rank,bh_all,0.5874840357598978,0.8975512243878061,1,1
+FatigueSet,Logistic Regression,free,rank,none,0.1504247876061969,0.6751624187906047,1,1
+FatigueSet,Gaussian Naive Bayes,free,rank,none,0.2353823088455772,0.8830584707646177,1,1
+FatigueSet,KNN,free,rank,none,0.5977011494252874,0.8975512243878061,1,1
+FatigueSet,Random Forest,free,rank,none,0.03948025987006497,0.06996501749125437,2,2
+FatigueSet,XGBoost,free,rank,none,0.041979010494752625,0.0384807596201899,3,2
+FatigueSet,MLP,free,rank,none,0.5182408795602199,0.887056471764118,1,1
+FatigueSet,Jampala RF,free,rank,none,0.02498750624687656,0.08945527236381809,2,2
+FatigueSet,Jampala LR,free,rank,none,0.11344327836081959,0.6856571714142928,1,1
+FatigueSet,Jampala KNN,free,rank,none,0.4802598700649675,0.672663668165917,1,1
+FatigueSet,Nooh GCA,free,rank,none,0.5287356321839081,0.8745627186406797,1,1
+FatigueSet,Logistic Regression,free,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,free,raw,holm_all,1.0,1.0,1,1
+FatigueSet,KNN,free,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Random Forest,free,raw,holm_all,1.0,0.40929535232383807,1,1
+FatigueSet,XGBoost,free,raw,holm_all,1.0,0.5517241379310345,1,1
+FatigueSet,MLP,free,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala RF,free,raw,holm_all,1.0,0.31984007996001995,1,1
+FatigueSet,Jampala LR,free,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala KNN,free,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Nooh GCA,free,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Logistic Regression,free,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,free,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,KNN,free,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Random Forest,free,raw,holm_dedup,1.0,0.40929535232383807,1,1
+FatigueSet,XGBoost,free,raw,holm_dedup,1.0,0.5517241379310345,1,1
+FatigueSet,MLP,free,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala RF,free,raw,holm_dedup,1.0,0.31984007996001995,1,1
+FatigueSet,Jampala LR,free,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala KNN,free,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Nooh GCA,free,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Logistic Regression,free,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,free,raw,holm_family,1.0,1.0,1,1
+FatigueSet,KNN,free,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Random Forest,free,raw,holm_family,1.0,0.272863568215892,1,1
+FatigueSet,XGBoost,free,raw,holm_family,1.0,0.3448275862068966,1,1
+FatigueSet,MLP,free,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala RF,free,raw,holm_family,0.6916541729135433,0.127936031984008,1,1
+FatigueSet,Jampala LR,free,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala KNN,free,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Nooh GCA,free,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Logistic Regression,free,raw,bh_all,0.9940029985007495,0.9565217391304348,1,1
+FatigueSet,Gaussian Naive Bayes,free,raw,bh_all,0.7883558220889555,0.9565217391304348,1,1
+FatigueSet,KNN,free,raw,bh_all,0.9940029985007495,0.9565217391304348,1,1
+FatigueSet,Random Forest,free,raw,bh_all,0.7883558220889555,0.2273863068465767,1,1
+FatigueSet,XGBoost,free,raw,bh_all,0.7883558220889555,0.2298850574712644,1,1
+FatigueSet,MLP,free,raw,bh_all,0.9940029985007495,0.9565217391304348,1,1
+FatigueSet,Jampala RF,free,raw,bh_all,0.7883558220889555,0.2273863068465767,1,1
+FatigueSet,Jampala LR,free,raw,bh_all,0.9940029985007495,0.9565217391304348,1,1
+FatigueSet,Jampala KNN,free,raw,bh_all,0.9940029985007495,0.9565217391304348,1,1
+FatigueSet,Nooh GCA,free,raw,bh_all,0.9940029985007495,0.9565217391304348,1,1
+FatigueSet,Logistic Regression,free,raw,none,0.9920039980009995,0.7891054472763618,1,1
+FatigueSet,Gaussian Naive Bayes,free,raw,none,0.3153423288355822,0.9565217391304348,1,1
+FatigueSet,KNN,free,raw,none,0.8115942028985508,0.8845577211394303,1,1
+FatigueSet,Random Forest,free,raw,none,0.22288855572213892,0.04547726136931534,1,1
+FatigueSet,XGBoost,free,raw,none,0.25737131434282856,0.06896551724137931,1,1
+FatigueSet,MLP,free,raw,none,0.9185407296351824,0.735632183908046,1,1
+FatigueSet,Jampala RF,free,raw,none,0.1729135432283858,0.031984007996002,1,1
+FatigueSet,Jampala LR,free,raw,none,0.9940029985007496,0.8045977011494253,1,1
+FatigueSet,Jampala KNN,free,raw,none,0.7476261869065467,0.7271364317841079,1,1
+FatigueSet,Nooh GCA,free,raw,none,0.6381809095452274,0.6391804097951025,1,1
+FatigueSet,Logistic Regression,block,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,block,rank,holm_all,1.0,1.0,1,1
+FatigueSet,KNN,block,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Random Forest,block,rank,holm_all,1.0,0.6296851574212894,1,1
+FatigueSet,XGBoost,block,rank,holm_all,1.0,0.384807596201899,1,1
+FatigueSet,MLP,block,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala RF,block,rank,holm_all,1.0,0.7156421789105447,1,1
+FatigueSet,Jampala LR,block,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala KNN,block,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Nooh GCA,block,rank,holm_all,1.0,1.0,1,1
+FatigueSet,Logistic Regression,block,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,block,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,KNN,block,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Random Forest,block,rank,holm_dedup,1.0,0.6296851574212894,1,1
+FatigueSet,XGBoost,block,rank,holm_dedup,1.0,0.384807596201899,1,1
+FatigueSet,MLP,block,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala RF,block,rank,holm_dedup,1.0,0.7156421789105447,1,1
+FatigueSet,Jampala LR,block,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala KNN,block,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Nooh GCA,block,rank,holm_dedup,1.0,1.0,1,1
+FatigueSet,Logistic Regression,block,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,block,rank,holm_family,1.0,1.0,1,1
+FatigueSet,KNN,block,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Random Forest,block,rank,holm_family,1.0,0.3498250874562719,1,1
+FatigueSet,XGBoost,block,rank,holm_family,1.0,0.23088455772113942,1,1
+FatigueSet,MLP,block,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala RF,block,rank,holm_family,0.8135932033983009,0.35782108945527236,1,1
+FatigueSet,Jampala LR,block,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala KNN,block,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Nooh GCA,block,rank,holm_family,1.0,1.0,1,1
+FatigueSet,Logistic Regression,block,rank,bh_all,0.9135432283858071,0.8975512243878061,1,1
+FatigueSet,Gaussian Naive Bayes,block,rank,bh_all,0.9135432283858071,0.8975512243878061,1,1
+FatigueSet,KNN,block,rank,bh_all,0.9135432283858071,0.8975512243878061,1,1
+FatigueSet,Random Forest,block,rank,bh_all,0.6779943361652507,0.29818424121272696,1,1
+FatigueSet,XGBoost,block,rank,bh_all,0.6779943361652507,0.29818424121272696,1,1
+FatigueSet,MLP,block,rank,bh_all,0.9135432283858071,0.8975512243878061,1,1
+FatigueSet,Jampala RF,block,rank,bh_all,0.6779943361652507,0.29818424121272696,1,1
+FatigueSet,Jampala LR,block,rank,bh_all,0.9135432283858071,0.8975512243878061,1,1
+FatigueSet,Jampala KNN,block,rank,bh_all,0.9135432283858071,0.8975512243878061,1,1
+FatigueSet,Nooh GCA,block,rank,bh_all,0.9135432283858071,0.8975512243878061,1,1
+FatigueSet,Logistic Regression,block,rank,none,0.5382308845577212,0.6751624187906047,1,1
+FatigueSet,Gaussian Naive Bayes,block,rank,none,0.5477261369315343,0.8830584707646177,1,1
+FatigueSet,KNN,block,rank,none,0.8950524737631185,0.8975512243878061,1,1
+FatigueSet,Random Forest,block,rank,none,0.18190904547726136,0.06996501749125437,1,1
+FatigueSet,XGBoost,block,rank,none,0.16941529235382308,0.0384807596201899,1,1
+FatigueSet,MLP,block,rank,none,0.8670664667666167,0.887056471764118,1,1
+FatigueSet,Jampala RF,block,rank,none,0.20339830084957522,0.08945527236381809,1,1
+FatigueSet,Jampala LR,block,rank,none,0.6066966516741629,0.6856571714142928,1,1
+FatigueSet,Jampala KNN,block,rank,none,0.777111444277861,0.672663668165917,1,1
+FatigueSet,Nooh GCA,block,rank,none,0.9135432283858071,0.8745627186406797,1,1
+FatigueSet,Logistic Regression,block,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,block,raw,holm_all,1.0,1.0,1,1
+FatigueSet,KNN,block,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Random Forest,block,raw,holm_all,1.0,0.40929535232383807,1,1
+FatigueSet,XGBoost,block,raw,holm_all,1.0,0.5517241379310345,1,1
+FatigueSet,MLP,block,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala RF,block,raw,holm_all,1.0,0.31984007996001995,1,1
+FatigueSet,Jampala LR,block,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Jampala KNN,block,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Nooh GCA,block,raw,holm_all,1.0,1.0,1,1
+FatigueSet,Logistic Regression,block,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,block,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,KNN,block,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Random Forest,block,raw,holm_dedup,1.0,0.40929535232383807,1,1
+FatigueSet,XGBoost,block,raw,holm_dedup,1.0,0.5517241379310345,1,1
+FatigueSet,MLP,block,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala RF,block,raw,holm_dedup,1.0,0.31984007996001995,1,1
+FatigueSet,Jampala LR,block,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Jampala KNN,block,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Nooh GCA,block,raw,holm_dedup,1.0,1.0,1,1
+FatigueSet,Logistic Regression,block,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Gaussian Naive Bayes,block,raw,holm_family,1.0,1.0,1,1
+FatigueSet,KNN,block,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Random Forest,block,raw,holm_family,1.0,0.272863568215892,1,1
+FatigueSet,XGBoost,block,raw,holm_family,1.0,0.3448275862068966,1,1
+FatigueSet,MLP,block,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala RF,block,raw,holm_family,1.0,0.127936031984008,1,1
+FatigueSet,Jampala LR,block,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Jampala KNN,block,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Nooh GCA,block,raw,holm_family,1.0,1.0,1,1
+FatigueSet,Logistic Regression,block,raw,bh_all,0.9960019990004998,0.9565217391304348,1,1
+FatigueSet,Gaussian Naive Bayes,block,raw,bh_all,0.9960019990004998,0.9565217391304348,1,1
+FatigueSet,KNN,block,raw,bh_all,0.9960019990004998,0.9565217391304348,1,1
+FatigueSet,Random Forest,block,raw,bh_all,0.9960019990004998,0.2273863068465767,1,1
+FatigueSet,XGBoost,block,raw,bh_all,0.9960019990004998,0.2298850574712644,1,1
+FatigueSet,MLP,block,raw,bh_all,0.9960019990004998,0.9565217391304348,1,1
+FatigueSet,Jampala RF,block,raw,bh_all,0.9960019990004998,0.2273863068465767,1,1
+FatigueSet,Jampala LR,block,raw,bh_all,0.9960019990004998,0.9565217391304348,1,1
+FatigueSet,Jampala KNN,block,raw,bh_all,0.9960019990004998,0.9565217391304348,1,1
+FatigueSet,Nooh GCA,block,raw,bh_all,0.9960019990004998,0.9565217391304348,1,1
+FatigueSet,Logistic Regression,block,raw,none,0.9910044977511244,0.7891054472763618,1,1
+FatigueSet,Gaussian Naive Bayes,block,raw,none,0.5977011494252874,0.9565217391304348,1,1
+FatigueSet,KNN,block,raw,none,0.9330334832583708,0.8845577211394303,1,1
+FatigueSet,Random Forest,block,raw,none,0.5877061469265368,0.04547726136931534,1,1
+FatigueSet,XGBoost,block,raw,none,0.592703648175912,0.06896551724137931,1,1
+FatigueSet,MLP,block,raw,none,0.9845077461269365,0.735632183908046,1,1
+FatigueSet,Jampala RF,block,raw,none,0.5477261369315343,0.031984007996002,1,1
+FatigueSet,Jampala LR,block,raw,none,0.9960019990004998,0.8045977011494253,1,1
+FatigueSet,Jampala KNN,block,raw,none,0.8935532233883059,0.7271364317841079,1,1
+FatigueSet,Nooh GCA,block,raw,none,0.8275862068965517,0.6391804097951025,1,1
+MEFAR,Logistic Regression,within,rank,holm_all,0.035982008995502246,1.0,2,2
+MEFAR,Gaussian Naive Bayes,within,rank,holm_all,0.06296851574212894,0.8995502248875562,1,1
+MEFAR,KNN,within,rank,holm_all,0.019990004997501247,0.47976011994003,2,2
+MEFAR,Random Forest,within,rank,holm_all,0.23788105947026486,1.0,1,1
+MEFAR,XGBoost,within,rank,holm_all,0.23788105947026486,1.0,1,1
+MEFAR,MLP,within,rank,holm_all,0.11244377811094454,1.0,1,1
+MEFAR,Jampala RF,within,rank,holm_all,0.23788105947026486,1.0,1,1
+MEFAR,Jampala LR,within,rank,holm_all,0.03148425787106447,1.0,2,2
+MEFAR,Jampala KNN,within,rank,holm_all,0.041979010494752625,1.0,2,2
+MEFAR,Nooh GCA,within,rank,holm_all,0.23788105947026486,1.0,1,1
+MEFAR,Logistic Regression,within,rank,holm_dedup,0.031484257871064465,1.0,2,2
+MEFAR,Gaussian Naive Bayes,within,rank,holm_dedup,0.05247376311844078,0.6996501749125437,1,1
+MEFAR,KNN,within,rank,holm_dedup,0.015992003998001,0.383808095952024,2,2
+MEFAR,Random Forest,within,rank,holm_dedup,0.17841079460269865,1.0,1,1
+MEFAR,XGBoost,within,rank,holm_dedup,0.17841079460269865,1.0,1,1
+MEFAR,MLP,within,rank,holm_dedup,0.08995502248875563,1.0,1,1
+MEFAR,Jampala KNN,within,rank,holm_dedup,0.035982008995502246,1.0,2,2
+MEFAR,Nooh GCA,within,rank,holm_dedup,0.17841079460269865,1.0,1,1
+MEFAR,Logistic Regression,within,rank,holm_family,0.022488755622188904,1.0,2,2
+MEFAR,Gaussian Naive Bayes,within,rank,holm_family,0.041979010494752625,0.49975012493753124,2,2
+MEFAR,KNN,within,rank,holm_family,0.01199400299850075,0.28785607196401797,2,2
+MEFAR,Random Forest,within,rank,holm_family,0.11894052973513243,1.0,1,1
+MEFAR,XGBoost,within,rank,holm_family,0.11894052973513243,1.0,1,1
+MEFAR,MLP,within,rank,holm_family,0.06746626686656672,1.0,1,1
+MEFAR,Jampala RF,within,rank,holm_family,0.127936031984008,1.0,1,1
+MEFAR,Jampala LR,within,rank,holm_family,0.013993003498250875,0.9205397301349325,2,2
+MEFAR,Jampala KNN,within,rank,holm_family,0.017991004497751123,0.6976511744127936,2,2
+MEFAR,Nooh GCA,within,rank,holm_family,0.127936031984008,1.0,1,1
+MEFAR,Logistic Regression,within,rank,bh_all,0.014992503748125935,0.6166916541729135,2,2
+MEFAR,Gaussian Naive Bayes,within,rank,bh_all,0.020989505247376312,0.49975012493753124,2,2
+MEFAR,KNN,within,rank,bh_all,0.014992503748125935,0.47976011994003,2,2
+MEFAR,Random Forest,within,rank,bh_all,0.07996001999000499,0.8820589705147427,1,1
+MEFAR,XGBoost,within,rank,bh_all,0.08445777111444278,0.8820589705147427,1,1
+MEFAR,MLP,within,rank,bh_all,0.037481259370314844,0.8820589705147427,2,2
+MEFAR,Jampala RF,within,rank,bh_all,0.08162585373979676,0.8820589705147427,1,1
+MEFAR,Jampala LR,within,rank,bh_all,0.014992503748125935,0.6166916541729135,2,2
+MEFAR,Jampala KNN,within,rank,bh_all,0.014992503748125937,0.5813759786773279,2,2
+MEFAR,Nooh GCA,within,rank,bh_all,0.07996001999000499,0.8587372980176577,1,1
+MEFAR,Logistic Regression,within,rank,none,0.004497751124437781,0.30834582708645675,2,2
+MEFAR,Gaussian Naive Bayes,within,rank,none,0.010494752623688156,0.09995002498750624,2,2
+MEFAR,KNN,within,rank,none,0.001999000499750125,0.047976011994003,3,2
+MEFAR,Random Forest,within,rank,none,0.059470264867566215,0.8820589705147426,1,1
+MEFAR,XGBoost,within,rank,none,0.08445777111444278,0.8380809595202399,1,1
+MEFAR,MLP,within,rank,none,0.022488755622188907,0.7326336831584208,2,2
+MEFAR,Jampala RF,within,rank,none,0.0734632683658171,0.8730634682658671,1,1
+MEFAR,Jampala LR,within,rank,none,0.0034982508745627187,0.30684657671164417,2,2
+MEFAR,Jampala KNN,within,rank,none,0.005997001499250375,0.1744127936031984,2,2
+MEFAR,Nooh GCA,within,rank,none,0.063968015992004,0.5152423788105946,1,1
+MEFAR,Logistic Regression,within,raw,holm_all,0.02798600699650175,1.0,2,2
+MEFAR,Gaussian Naive Bayes,within,raw,holm_all,0.02798600699650175,0.559720139930035,2,2
+MEFAR,KNN,within,raw,holm_all,0.024987506246876564,0.7556221889055472,2,2
+MEFAR,Random Forest,within,raw,holm_all,0.31584207896051975,1.0,1,1
+MEFAR,XGBoost,within,raw,holm_all,0.31584207896051975,1.0,1,1
+MEFAR,MLP,within,raw,holm_all,0.2123938030984508,1.0,1,1
+MEFAR,Jampala RF,within,raw,holm_all,0.31584207896051975,1.0,1,1
+MEFAR,Jampala LR,within,raw,holm_all,0.026986506746626684,1.0,2,2
+MEFAR,Jampala KNN,within,raw,holm_all,0.035982008995502246,1.0,2,2
+MEFAR,Nooh GCA,within,raw,holm_all,0.31584207896051975,1.0,1,1
+MEFAR,Logistic Regression,within,raw,holm_dedup,0.02448775612193903,1.0,2,2
+MEFAR,Gaussian Naive Bayes,within,raw,holm_dedup,0.02448775612193903,0.447776111944028,2,2
+MEFAR,KNN,within,raw,holm_dedup,0.01999000499750125,0.5877061469265368,2,2
+MEFAR,Random Forest,within,raw,holm_dedup,0.2368815592203898,1.0,1,1
+MEFAR,XGBoost,within,raw,holm_dedup,0.2368815592203898,1.0,1,1
+MEFAR,MLP,within,raw,holm_dedup,0.16991504247876063,1.0,1,1
+MEFAR,Jampala KNN,within,raw,holm_dedup,0.029985007496251874,1.0,2,2
+MEFAR,Nooh GCA,within,raw,holm_dedup,0.2368815592203898,1.0,1,1
+MEFAR,Logistic Regression,within,raw,holm_family,0.017491254372813594,1.0,2,2
+MEFAR,Gaussian Naive Bayes,within,raw,holm_family,0.017491254372813594,0.335832083958021,2,2
+MEFAR,KNN,within,raw,holm_family,0.014992503748125937,0.4197901049475262,2,2
+MEFAR,Random Forest,within,raw,holm_family,0.19090454772613694,1.0,1,1
+MEFAR,XGBoost,within,raw,holm_family,0.19090454772613694,1.0,1,1
+MEFAR,MLP,within,raw,holm_family,0.12743628185907047,1.0,1,1
+MEFAR,Jampala RF,within,raw,holm_family,0.15792103948025987,0.9225387306346826,1,1
+MEFAR,Jampala LR,within,raw,holm_family,0.01199400299850075,0.7841079460269864,2,2
+MEFAR,Jampala KNN,within,raw,holm_family,0.017991004497751123,0.7416291854072964,2,2
+MEFAR,Nooh GCA,within,raw,holm_family,0.15792103948025987,0.7841079460269864,1,1
+MEFAR,Logistic Regression,within,raw,bh_all,0.008745627186406797,0.5227386306846576,2,2
+MEFAR,Gaussian Naive Bayes,within,raw,bh_all,0.008745627186406797,0.4197901049475262,2,2
+MEFAR,KNN,within,raw,bh_all,0.008745627186406797,0.4197901049475262,2,2
+MEFAR,Random Forest,within,raw,bh_all,0.1121661391526459,0.9225387306346826,1,1
+MEFAR,XGBoost,within,raw,bh_all,0.1121661391526459,0.9225387306346826,1,1
+MEFAR,MLP,within,raw,bh_all,0.07079793436615027,0.9225387306346826,1,1
+MEFAR,Jampala RF,within,raw,bh_all,0.11944027986006997,0.9225387306346826,1,1
+MEFAR,Jampala LR,within,raw,bh_all,0.008745627186406797,0.5227386306846576,2,2
+MEFAR,Jampala KNN,within,raw,bh_all,0.01199400299850075,0.5227386306846576,2,2
+MEFAR,Nooh GCA,within,raw,bh_all,0.1121661391526459,0.5480593036814926,1,1
+MEFAR,Logistic Regression,within,raw,none,0.0034982508745627187,0.2613693153423288,2,2
+MEFAR,Gaussian Naive Bayes,within,raw,none,0.0034982508745627187,0.0559720139930035,2,2
+MEFAR,KNN,within,raw,none,0.0024987506246876563,0.08395802098950525,2,2
+MEFAR,Random Forest,within,raw,none,0.10094952523738131,0.8935532233883059,1,1
+MEFAR,XGBoost,within,raw,none,0.09545227386306847,0.8175912043978011,1,1
+MEFAR,MLP,within,raw,none,0.04247876061969016,0.7246376811594203,2,2
+MEFAR,Jampala RF,within,raw,none,0.11944027986006997,0.9225387306346826,1,1
+MEFAR,Jampala LR,within,raw,none,0.0029985007496251873,0.2613693153423288,2,2
+MEFAR,Jampala KNN,within,raw,none,0.005997001499250375,0.1854072963518241,2,2
+MEFAR,Nooh GCA,within,raw,none,0.07896051974012994,0.3288355822088955,1,1
+MEFAR,Logistic Regression,free,rank,holm_all,0.447776111944028,1.0,1,1
+MEFAR,Gaussian Naive Bayes,free,rank,holm_all,0.1709145427286357,0.8995502248875562,1,1
+MEFAR,KNN,free,rank,holm_all,0.04497751124437781,0.47976011994003,2,2
+MEFAR,Random Forest,free,rank,holm_all,0.9835082458770614,1.0,1,1
+MEFAR,XGBoost,free,rank,holm_all,0.9835082458770614,1.0,1,1
+MEFAR,MLP,free,rank,holm_all,0.9835082458770614,1.0,1,1
+MEFAR,Jampala RF,free,rank,holm_all,0.9835082458770614,1.0,1,1
+MEFAR,Jampala LR,free,rank,holm_all,0.447776111944028,1.0,1,1
+MEFAR,Jampala KNN,free,rank,holm_all,0.1709145427286357,1.0,1,1
+MEFAR,Nooh GCA,free,rank,holm_all,0.5547226386806596,1.0,1,1
+MEFAR,Logistic Regression,free,rank,holm_dedup,0.31984007996001995,1.0,1,1
+MEFAR,Gaussian Naive Bayes,free,rank,holm_dedup,0.1329335332333833,0.6996501749125437,1,1
+MEFAR,KNN,free,rank,holm_dedup,0.035982008995502246,0.383808095952024,2,2
+MEFAR,Random Forest,free,rank,holm_dedup,0.7376311844077961,1.0,1,1
+MEFAR,XGBoost,free,rank,holm_dedup,0.7376311844077961,1.0,1,1
+MEFAR,MLP,free,rank,holm_dedup,0.7376311844077961,1.0,1,1
+MEFAR,Jampala KNN,free,rank,holm_dedup,0.1329335332333833,1.0,1,1
+MEFAR,Nooh GCA,free,rank,holm_dedup,0.44377811094452774,1.0,1,1
+MEFAR,Logistic Regression,free,rank,holm_family,0.255872063968016,1.0,1,1
+MEFAR,Gaussian Naive Bayes,free,rank,holm_family,0.09495252373813094,0.49975012493753124,1,1
+MEFAR,KNN,free,rank,holm_family,0.026986506746626684,0.28785607196401797,2,2
+MEFAR,Random Forest,free,rank,holm_family,0.7376311844077961,1.0,1,1
+MEFAR,XGBoost,free,rank,holm_family,0.7376311844077961,1.0,1,1
+MEFAR,MLP,free,rank,holm_family,0.7376311844077961,1.0,1,1
+MEFAR,Jampala RF,free,rank,holm_family,0.3168415792103948,1.0,1,1
+MEFAR,Jampala LR,free,rank,holm_family,0.19790104947526238,0.9205397301349325,1,1
+MEFAR,Jampala KNN,free,rank,holm_family,0.08395802098950525,0.6976511744127936,1,1
+MEFAR,Nooh GCA,free,rank,holm_family,0.22188905547226387,1.0,1,1
+MEFAR,Logistic Regression,free,rank,bh_all,0.13193403298350825,0.6166916541729135,1,1
+MEFAR,Gaussian Naive Bayes,free,rank,bh_all,0.06996501749125437,0.49975012493753124,1,1
+MEFAR,KNN,free,rank,bh_all,0.04497751124437781,0.47976011994003,2,2
+MEFAR,Random Forest,free,rank,bh_all,0.3428285857071464,0.8820589705147427,1,1
+MEFAR,XGBoost,free,rank,bh_all,0.3428285857071464,0.8820589705147427,1,1
+MEFAR,MLP,free,rank,bh_all,0.3428285857071464,0.8820589705147427,1,1
+MEFAR,Jampala RF,free,rank,bh_all,0.3428285857071464,0.8820589705147427,1,1
+MEFAR,Jampala LR,free,rank,bh_all,0.13193403298350825,0.6166916541729135,1,1
+MEFAR,Jampala KNN,free,rank,bh_all,0.06996501749125437,0.5813759786773279,1,1
+MEFAR,Nooh GCA,free,rank,bh_all,0.18490754622688654,0.8587372980176577,1,1
+MEFAR,Logistic Regression,free,rank,none,0.063968015992004,0.30834582708645675,1,1
+MEFAR,Gaussian Naive Bayes,free,rank,none,0.01899050474762619,0.09995002498750624,2,2
+MEFAR,KNN,free,rank,none,0.004497751124437781,0.047976011994003,3,2
+MEFAR,Random Forest,free,rank,none,0.3428285857071464,0.8820589705147426,1,1
+MEFAR,XGBoost,free,rank,none,0.3308345827086457,0.8380809595202399,1,1
+MEFAR,MLP,free,rank,none,0.24587706146926536,0.7326336831584208,1,1
+MEFAR,Jampala RF,free,rank,none,0.3168415792103948,0.8730634682658671,1,1
+MEFAR,Jampala LR,free,rank,none,0.06596701649175413,0.30684657671164417,1,1
+MEFAR,Jampala KNN,free,rank,none,0.020989505247376312,0.1744127936031984,2,2
+MEFAR,Nooh GCA,free,rank,none,0.11094452773613193,0.5152423788105946,1,1
+MEFAR,Logistic Regression,free,raw,holm_all,0.9775112443778111,1.0,1,1
+MEFAR,Gaussian Naive Bayes,free,raw,holm_all,0.20689655172413793,0.559720139930035,1,1
+MEFAR,KNN,free,raw,holm_all,0.17491254372813594,0.7556221889055472,1,1
+MEFAR,Random Forest,free,raw,holm_all,1.0,1.0,1,1
+MEFAR,XGBoost,free,raw,holm_all,1.0,1.0,1,1
+MEFAR,MLP,free,raw,holm_all,1.0,1.0,1,1
+MEFAR,Jampala RF,free,raw,holm_all,1.0,1.0,1,1
+MEFAR,Jampala LR,free,raw,holm_all,0.9775112443778111,1.0,1,1
+MEFAR,Jampala KNN,free,raw,holm_all,0.22788605697151423,1.0,1,1
+MEFAR,Nooh GCA,free,raw,holm_all,0.6086956521739131,1.0,1,1
+MEFAR,Logistic Regression,free,raw,holm_dedup,0.6516741629185407,1.0,1,1
+MEFAR,Gaussian Naive Bayes,free,raw,holm_dedup,0.16091954022988506,0.447776111944028,1,1
+MEFAR,KNN,free,raw,holm_dedup,0.13993003498250875,0.5877061469265368,1,1
+MEFAR,Random Forest,free,raw,holm_dedup,0.8920539730134932,1.0,1,1
+MEFAR,XGBoost,free,raw,holm_dedup,0.8920539730134932,1.0,1,1
+MEFAR,MLP,free,raw,holm_dedup,0.8920539730134932,1.0,1,1
+MEFAR,Jampala KNN,free,raw,holm_dedup,0.17091454272863568,1.0,1,1
+MEFAR,Nooh GCA,free,raw,holm_dedup,0.43478260869565216,1.0,1,1
+MEFAR,Logistic Regression,free,raw,holm_family,0.6516741629185407,1.0,1,1
+MEFAR,Gaussian Naive Bayes,free,raw,holm_family,0.11494252873563218,0.335832083958021,1,1
+MEFAR,KNN,free,raw,holm_family,0.10494752623688156,0.4197901049475262,1,1
+MEFAR,Random Forest,free,raw,holm_family,0.8920539730134932,1.0,1,1
+MEFAR,XGBoost,free,raw,holm_family,0.8920539730134932,1.0,1,1
+MEFAR,MLP,free,raw,holm_family,0.8920539730134932,1.0,1,1
+MEFAR,Jampala RF,free,raw,holm_family,0.4567716141929036,0.9225387306346826,1,1
+MEFAR,Jampala LR,free,raw,holm_family,0.3288355822088955,0.7841079460269864,1,1
+MEFAR,Jampala KNN,free,raw,holm_family,0.11394302848575712,0.7416291854072964,1,1
+MEFAR,Nooh GCA,free,raw,holm_family,0.2608695652173913,0.7841079460269864,1,1
+MEFAR,Logistic Regression,free,raw,bh_all,0.2740296518407463,0.5227386306846576,1,1
+MEFAR,Gaussian Naive Bayes,free,raw,bh_all,0.09495252373813094,0.4197901049475262,1,1
+MEFAR,KNN,free,raw,bh_all,0.09495252373813094,0.4197901049475262,1,1
+MEFAR,Random Forest,free,raw,bh_all,0.45477261369315336,0.9225387306346826,1,1
+MEFAR,XGBoost,free,raw,bh_all,0.45477261369315336,0.9225387306346826,1,1
+MEFAR,MLP,free,raw,bh_all,0.42478760619690153,0.9225387306346826,1,1
+MEFAR,Jampala RF,free,raw,bh_all,0.4567716141929036,0.9225387306346826,1,1
+MEFAR,Jampala LR,free,raw,bh_all,0.2740296518407463,0.5227386306846576,1,1
+MEFAR,Jampala KNN,free,raw,bh_all,0.09495252373813094,0.5227386306846576,1,1
+MEFAR,Nooh GCA,free,raw,bh_all,0.21739130434782608,0.5480593036814926,1,1
+MEFAR,Logistic Regression,free,raw,none,0.1629185407296352,0.2613693153423288,1,1
+MEFAR,Gaussian Naive Bayes,free,raw,none,0.022988505747126436,0.0559720139930035,2,2
+MEFAR,KNN,free,raw,none,0.017491254372813594,0.08395802098950525,2,2
+MEFAR,Random Forest,free,raw,none,0.40929535232383807,0.8935532233883059,1,1
+MEFAR,XGBoost,free,raw,none,0.3748125937031484,0.8175912043978011,1,1
+MEFAR,MLP,free,raw,none,0.29735132433783107,0.7246376811594203,1,1
+MEFAR,Jampala RF,free,raw,none,0.4567716141929036,0.9225387306346826,1,1
+MEFAR,Jampala LR,free,raw,none,0.16441779110444776,0.2613693153423288,1,1
+MEFAR,Jampala KNN,free,raw,none,0.02848575712143928,0.1854072963518241,2,2
+MEFAR,Nooh GCA,free,raw,none,0.08695652173913043,0.3288355822088955,1,1
+MEFAR,Logistic Regression,block,rank,holm_all,1.0,1.0,1,1
+MEFAR,Gaussian Naive Bayes,block,rank,holm_all,1.0,0.8995502248875562,1,1
+MEFAR,KNN,block,rank,holm_all,0.6746626686656672,0.47976011994003,1,1
+MEFAR,Random Forest,block,rank,holm_all,1.0,1.0,1,1
+MEFAR,XGBoost,block,rank,holm_all,1.0,1.0,1,1
+MEFAR,MLP,block,rank,holm_all,1.0,1.0,1,1
+MEFAR,Jampala RF,block,rank,holm_all,1.0,1.0,1,1
+MEFAR,Jampala LR,block,rank,holm_all,1.0,1.0,1,1
+MEFAR,Jampala KNN,block,rank,holm_all,1.0,1.0,1,1
+MEFAR,Nooh GCA,block,rank,holm_all,1.0,1.0,1,1
+MEFAR,Logistic Regression,block,rank,holm_dedup,1.0,1.0,1,1
+MEFAR,Gaussian Naive Bayes,block,rank,holm_dedup,0.783608195902049,0.6996501749125437,1,1
+MEFAR,KNN,block,rank,holm_dedup,0.5397301349325337,0.383808095952024,1,1
+MEFAR,Random Forest,block,rank,holm_dedup,1.0,1.0,1,1
+MEFAR,XGBoost,block,rank,holm_dedup,1.0,1.0,1,1
+MEFAR,MLP,block,rank,holm_dedup,1.0,1.0,1,1
+MEFAR,Jampala KNN,block,rank,holm_dedup,1.0,1.0,1,1
+MEFAR,Nooh GCA,block,rank,holm_dedup,1.0,1.0,1,1
+MEFAR,Logistic Regression,block,rank,holm_family,1.0,1.0,1,1
+MEFAR,Gaussian Naive Bayes,block,rank,holm_family,0.559720139930035,0.49975012493753124,1,1
+MEFAR,KNN,block,rank,holm_family,0.40479760119940034,0.28785607196401797,1,1
+MEFAR,Random Forest,block,rank,holm_family,1.0,1.0,1,1
+MEFAR,XGBoost,block,rank,holm_family,1.0,1.0,1,1
+MEFAR,MLP,block,rank,holm_family,1.0,1.0,1,1
+MEFAR,Jampala RF,block,rank,holm_family,1.0,1.0,1,1
+MEFAR,Jampala LR,block,rank,holm_family,0.8635682158920539,0.9205397301349325,1,1
+MEFAR,Jampala KNN,block,rank,holm_family,0.7976011994002998,0.6976511744127936,1,1
+MEFAR,Nooh GCA,block,rank,holm_family,1.0,1.0,1,1
+MEFAR,Logistic Regression,block,rank,bh_all,0.5757121439280359,0.6166916541729135,1,1
+MEFAR,Gaussian Naive Bayes,block,rank,bh_all,0.559720139930035,0.49975012493753124,1,1
+MEFAR,KNN,block,rank,bh_all,0.559720139930035,0.47976011994003,1,1
+MEFAR,Random Forest,block,rank,bh_all,0.8605697151424287,0.8820589705147427,1,1
+MEFAR,XGBoost,block,rank,bh_all,0.8605697151424287,0.8820589705147427,1,1
+MEFAR,MLP,block,rank,bh_all,0.8605697151424287,0.8820589705147427,1,1
+MEFAR,Jampala RF,block,rank,bh_all,0.8605697151424287,0.8820589705147427,1,1
+MEFAR,Jampala LR,block,rank,bh_all,0.5757121439280359,0.6166916541729135,1,1
+MEFAR,Jampala KNN,block,rank,bh_all,0.5757121439280359,0.5813759786773279,1,1
+MEFAR,Nooh GCA,block,rank,bh_all,0.8412460436448441,0.8587372980176577,1,1
+MEFAR,Logistic Regression,block,rank,none,0.28735632183908044,0.30834582708645675,1,1
+MEFAR,Gaussian Naive Bayes,block,rank,none,0.111944027986007,0.09995002498750624,1,1
+MEFAR,KNN,block,rank,none,0.06746626686656672,0.047976011994003,1,1
+MEFAR,Random Forest,block,rank,none,0.8605697151424287,0.8820589705147426,1,1
+MEFAR,XGBoost,block,rank,none,0.8350824587706147,0.8380809595202399,1,1
+MEFAR,MLP,block,rank,none,0.7526236881559221,0.7326336831584208,1,1
+MEFAR,Jampala RF,block,rank,none,0.856071964017991,0.8730634682658671,1,1
+MEFAR,Jampala LR,block,rank,none,0.28785607196401797,0.30684657671164417,1,1
+MEFAR,Jampala KNN,block,rank,none,0.19940029985007496,0.1744127936031984,1,1
+MEFAR,Nooh GCA,block,rank,none,0.5047476261869065,0.5152423788105946,1,1
+MEFAR,Logistic Regression,block,raw,holm_all,1.0,1.0,1,1
+MEFAR,Gaussian Naive Bayes,block,raw,holm_all,1.0,0.559720139930035,1,1
+MEFAR,KNN,block,raw,holm_all,1.0,0.7556221889055472,1,1
+MEFAR,Random Forest,block,raw,holm_all,1.0,1.0,1,1
+MEFAR,XGBoost,block,raw,holm_all,1.0,1.0,1,1
+MEFAR,MLP,block,raw,holm_all,1.0,1.0,1,1
+MEFAR,Jampala RF,block,raw,holm_all,1.0,1.0,1,1
+MEFAR,Jampala LR,block,raw,holm_all,1.0,1.0,1,1
+MEFAR,Jampala KNN,block,raw,holm_all,1.0,1.0,1,1
+MEFAR,Nooh GCA,block,raw,holm_all,1.0,1.0,1,1
+MEFAR,Logistic Regression,block,raw,holm_dedup,1.0,1.0,1,1
+MEFAR,Gaussian Naive Bayes,block,raw,holm_dedup,0.8675662168915542,0.447776111944028,1,1
+MEFAR,KNN,block,raw,holm_dedup,0.8990504747626187,0.5877061469265368,1,1
+MEFAR,Random Forest,block,raw,holm_dedup,1.0,1.0,1,1
+MEFAR,XGBoost,block,raw,holm_dedup,1.0,1.0,1,1
+MEFAR,MLP,block,raw,holm_dedup,1.0,1.0,1,1
+MEFAR,Jampala KNN,block,raw,holm_dedup,1.0,1.0,1,1
+MEFAR,Nooh GCA,block,raw,holm_dedup,1.0,1.0,1,1
+MEFAR,Logistic Regression,block,raw,holm_family,1.0,1.0,1,1
+MEFAR,Gaussian Naive Bayes,block,raw,holm_family,0.6506746626686657,0.335832083958021,1,1
+MEFAR,KNN,block,raw,holm_family,0.6506746626686657,0.4197901049475262,1,1
+MEFAR,Random Forest,block,raw,holm_family,1.0,1.0,1,1
+MEFAR,XGBoost,block,raw,holm_family,1.0,1.0,1,1
+MEFAR,MLP,block,raw,holm_family,1.0,1.0,1,1
+MEFAR,Jampala RF,block,raw,holm_family,1.0,0.9225387306346826,1,1
+MEFAR,Jampala LR,block,raw,holm_family,1.0,0.7841079460269864,1,1
+MEFAR,Jampala KNN,block,raw,holm_family,0.9575212393803099,0.7416291854072964,1,1
+MEFAR,Nooh GCA,block,raw,holm_family,1.0,0.7841079460269864,1,1
+MEFAR,Logistic Regression,block,raw,bh_all,0.7646176911544228,0.5227386306846576,1,1
+MEFAR,Gaussian Naive Bayes,block,raw,bh_all,0.6421789105447275,0.4197901049475262,1,1
+MEFAR,KNN,block,raw,bh_all,0.6421789105447275,0.4197901049475262,1,1
+MEFAR,Random Forest,block,raw,bh_all,0.9065467266366817,0.9225387306346826,1,1
+MEFAR,XGBoost,block,raw,bh_all,0.9065467266366817,0.9225387306346826,1,1
+MEFAR,MLP,block,raw,bh_all,0.9065467266366817,0.9225387306346826,1,1
+MEFAR,Jampala RF,block,raw,bh_all,0.9065467266366817,0.9225387306346826,1,1
+MEFAR,Jampala LR,block,raw,bh_all,0.7646176911544228,0.5227386306846576,1,1
+MEFAR,Jampala KNN,block,raw,bh_all,0.7646176911544228,0.5227386306846576,1,1
+MEFAR,Nooh GCA,block,raw,bh_all,0.7646176911544228,0.5480593036814926,1,1
+MEFAR,Logistic Regression,block,raw,none,0.4572713643178411,0.2613693153423288,1,1
+MEFAR,Gaussian Naive Bayes,block,raw,none,0.10844577711144428,0.0559720139930035,1,1
+MEFAR,KNN,block,raw,none,0.12843578210894552,0.08395802098950525,1,1
+MEFAR,Random Forest,block,raw,none,0.8760619690154923,0.8935532233883059,1,1
+MEFAR,XGBoost,block,raw,none,0.8140929535232384,0.8175912043978011,1,1
+MEFAR,MLP,block,raw,none,0.7871064467766117,0.7246376811594203,1,1
+MEFAR,Jampala RF,block,raw,none,0.9065467266366817,0.9225387306346826,1,1
+MEFAR,Jampala LR,block,raw,none,0.4587706146926537,0.2613693153423288,1,1
+MEFAR,Jampala KNN,block,raw,none,0.23938030984507747,0.1854072963518241,1,1
+MEFAR,Nooh GCA,block,raw,none,0.3523238380809595,0.3288355822088955,1,1
